@@ -26,7 +26,7 @@ if ($stmt->execute()) {
          timer: 2500,
          showConfirmButton: false
        }, function(){
-             window.location.href = "Index.php";
+             window.location.href = "index.php";
        });
  });
  
