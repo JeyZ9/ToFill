@@ -1,0 +1,10 @@
+img {
+  transition: transform 0.25s ease;
+}
+
+img:hover {
+  -webkit-transform: scale(5);
+  /* or some other value */
+  transform: scale(5);
+}
+
